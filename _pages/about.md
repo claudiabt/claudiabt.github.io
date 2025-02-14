@@ -12,9 +12,9 @@ Education
 
 | Institution |      Qualification      |  Subject |
 |-------------|:-----------------------:|----------|
-| I1 | Q1 | S1 |
-| I2 | Q2 | S2 |
-| I3 | Q3 | S3 |
+| Historical Research Institute, Autonomous University of Baja California, Mexico | PhD Candidate (ABD)| History |
+| Historical Research Institute, Autonomous University of Baja California, Mexico | Master of Science Degree | History |
+| Faculty of Philosophy and History, University of Havana, Cuba | Honours Bachelor’s Degree | History |
 
 ABC
 ======
