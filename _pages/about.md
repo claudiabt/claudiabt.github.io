@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "HAPPY VALENTINES DAY --- Te amo pupita mia"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
