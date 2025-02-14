@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Lecturer | Learning Experience Designer"
   pronouns         : # "she/her"  
-  bio              : "Experienced Lecturer, Researcher, and Digital Product Designer with a strong background in education, content development, and the software industry. Specialized in the fields of History and International Relations research, with a keen interest in literature and creative writing."
-  location         : "Ireland"
+  bio              : "Experienced Lecturer and Researcher. Specialized in the fields of History and International Relations research, with a keen interest in literature and creative writing."
+  location         : # "Ireland"
   employer         : # "Red Brick University"
   uri              : # URL
   email            : "clausandia@gmail.com" 
@@ -219,7 +219,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  research:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -265,10 +265,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _research
   - scope:
       path: ""
-      type: portfolio
+      type: research
     values:
       layout: single
       author_profile: true
