@@ -14,7 +14,7 @@ Education
 |-------------|:-----------------------:|----------|----------|
 | Historical Research Institute, Autonomous University of Baja California, Mexico | PhD Candidate (ABD)| History | -
 | Historical Research Institute, Autonomous University of Baja California, Mexico | Master of Science Degree | History | 2018
-| Faculty of Law, University of Havana | Higher Diploma | Common Law | 2012
+| Faculty of Law, University of Havana, Cuba | Higher Diploma | Common Law | 2012
 | Faculty of Philosophy and History, University of Havana, Cuba | Honours Bachelor’s Degree | History | 2010
 
 ABC
