@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "compress"
 title                    : "Claudia Borrajo del Toro"
 title_separator          : "-"
-name                     : &name "Claudia"
+name                     : &name "Claudia Borrajo"
 description              : &description "personal description"
 url                      : https://claudiabt.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Lecturer | Learning Experience Designer"
-  pronouns         : "she/her"  
+  pronouns         : # "she/her"  
   bio              : "Experienced Lecturer, Researcher, and Digital Product Designer with a strong background in education, content development, and the software industry. Specialized in the fields of History and International Relations research, with a keen interest in literature and creative writing."
   location         : "Ireland"
   employer         : # "Red Brick University"
@@ -35,7 +35,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=TIhtPkIAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
