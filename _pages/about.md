@@ -10,11 +10,11 @@ redirect_from:
 Education
 ======
 
-| Institution |      Qualification      |  Subject |
-|-------------|:-----------------------:|----------|
-| Historical Research Institute, Autonomous University of Baja California, Mexico | PhD Candidate (ABD)| History |
-| Historical Research Institute, Autonomous University of Baja California, Mexico | Master of Science Degree | History |
-| Faculty of Philosophy and History, University of Havana, Cuba | Honours Bachelor’s Degree | History |
+| Institution |      Qualification      |  Subject | Year |
+|-------------|:-----------------------:|----------|----------|
+| Historical Research Institute, Autonomous University of Baja California, Mexico | PhD Candidate (ABD)| History | -
+| Historical Research Institute, Autonomous University of Baja California, Mexico | Master of Science Degree | History | 2018
+| Faculty of Philosophy and History, University of Havana, Cuba | Honours Bachelor’s Degree | History | 2010
 
 ABC
 ======
