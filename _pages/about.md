@@ -6,6 +6,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+Areas of specialisation
+======
+Contemporary approaches to History Studies, Contemporary History, Economic History, Latin American history, United States of America History, Mexico History, Cuba History, Film History, Cinema Studies, Social representations, International Affairs, and international conflicts.
+
+
+Education
+======
+
+| Institution |      Qualification      |  Subject | Year |
+|-------------|:-----------------------:|----------|----------|
+| Historical Research Institute, Autonomous University of Baja California, Mexico | PhD Candidate (ABD)| History | -
+| Historical Research Institute, Autonomous University of Baja California, Mexico | Master of Science Degree | History | 2018
+| Faculty of Law, University of Havana, Cuba | Higher Diploma | Common Law | 2012
+| Faculty of Philosophy and History, University of Havana, Cuba | Honours Bachelor’s Degree | History | 2010
+
+
 Biography
 ======
 
@@ -24,14 +41,3 @@ Claudia also has substantial experience in the business and technology sectors. 
 Claudia has successfully navigated multiple roles across diverse industries while committed to education, research, and innovation. Her ability to manage complex projects, adapt to new challenges, and integrate her expertise across disciplines makes her a valuable asset in academic and professional settings. She continues to seek opportunities for collaboration and knowledge exchange, particularly in history, education, and digital transformation.
 
 Currently, Claudia is in the writing phase of her Ph.D. dissertation at UABC’s Historical Research Institute (http://iih.tij.uabc.mx/). Her doctoral research, titled “Film Censorship in Mexico as a Public Diplomacy Tool, 1910-1950”, explores the role of Mexican authorities in shaping the country’s image abroad through film censorship and diplomatic negotiations.
-
-
-Education
-======
-
-| Institution |      Qualification      |  Subject | Year |
-|-------------|:-----------------------:|----------|----------|
-| Historical Research Institute, Autonomous University of Baja California, Mexico | PhD Candidate (ABD)| History | -
-| Historical Research Institute, Autonomous University of Baja California, Mexico | Master of Science Degree | History | 2018
-| Faculty of Law, University of Havana, Cuba | Higher Diploma | Common Law | 2012
-| Faculty of Philosophy and History, University of Havana, Cuba | Honours Bachelor’s Degree | History | 2010
