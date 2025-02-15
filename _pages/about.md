@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Areas of specialisation
+Interests
 ======
 Contemporary approaches to History Studies, Contemporary History, Economic History, Latin American history, United States of America History, Mexico History, Cuba History, Film History, Cinema Studies, Social representations, International Affairs, and international conflicts.
 
