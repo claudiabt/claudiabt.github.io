@@ -38,7 +38,7 @@ author:
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://uabc.academia.edu/ClaudiaBorrajodelToro"
+  researchgate     : # URL
   scopus           : # URL
   academia         : "https://uabc.academia.edu/ClaudiaBorrajodelToro"
 
